@@ -1,0 +1,9 @@
+data/
+.venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.mp4
+*.mkv
+*.pth
+local-dev.json
